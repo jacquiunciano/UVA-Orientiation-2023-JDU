@@ -18,5 +18,8 @@ Hello, and welcome to this page. This is a place for information, materials, and
      - [ord](https://github.com/ordinals/ord); also nice but I didn't really learn a lot when I read the readme
      - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim); looked nice but could've had a table of contents or something because there was a lot on there
      - [openai cookbook](https://github.com/openai/openai-cookbook); LOVED the way this was organised, simple, readable
+5. I visited the following GitHub profiles:
+     - [Prof. Alonzi](https://github.com/alonzi)
+     - 
 
 ## Orientation Notes
