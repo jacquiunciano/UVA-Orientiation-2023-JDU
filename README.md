@@ -20,6 +20,10 @@ Hello, and welcome to this page. This is a place for information, materials, and
      - [openai cookbook](https://github.com/openai/openai-cookbook); LOVED the way this was organised, simple, readable
 5. I visited the following GitHub profiles:
      - [Prof. Alonzi](https://github.com/alonzi)
-     - 
+     - [Prof. Evans](https://github.com/evansuva)
+     - [Prof. Sherriff](https://github.com/marksherriff)
+     - [Aman Shrivastava](https://github.com/4m4n5)
+     - [Zanwen Chen](https://github.com/zhanwenchen)
+     - [Hao Tian](https://github.com/Haotian9850)
 
 ## Orientation Notes
