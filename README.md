@@ -25,5 +25,7 @@ Hello, and welcome to this page. This is a place for information, materials, and
      - [Aman Shrivastava](https://github.com/4m4n5)
      - [Zanwen Chen](https://github.com/zhanwenchen)
      - [Hao Tian](https://github.com/Haotian9850)
-6. With this next line, I'm writing in VS Code and pushing this change back to GitHub.
+
+## Materials List: VS Code Badge
+1.   With this next line, I'm writing in VS Code and pushing this change back to GitHub.
 ## Orientation Notes
